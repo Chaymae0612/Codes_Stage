@@ -8,4 +8,10 @@
 
 - Dans le fichier 'Exemple 4 noeuds', j'ai essayé de travailler sur un graphe à 4 noeuds, ce qui nécessite 92 qubits au total, ce qui justifie l'erreur mentionnée à la fin du code. C'est le cas aussi pour 'Exemple 3 noeuds'
 
+
+--- Dans le dossier second_Draft: ----
+
+- Le fichier "QAOA-3 noeuds", contient toutes les contraintes, on traite un réseau à trois noeuds --> Problème lié au nombre limité des qubits !
+
+- Les autres codes -en compilation-
   
