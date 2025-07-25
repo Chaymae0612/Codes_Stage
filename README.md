@@ -17,6 +17,8 @@
 
 - Le fichier "QA - Benchmark", il s'agit d'un test pour implémenter Quantum Annealing au local.
 
+- Le fichier "QAOA - Benchmark", est également un test pour l'implémentation de QAOA !
+
 - Les autres codes -en compilation-
 
 
