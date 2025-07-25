@@ -15,5 +15,10 @@
 
 - Le fichier "QAOA -2 noeuds", contient également toutes contrainte, on traite un réseau à deux noeuds, on fait une comparaison avec une résolution purement classique.
 
+- Le fichier "QA - Benchmark", il s'agit d'un test pour implémenter Quantum Annealing au local.
+
 - Les autres codes -en compilation-
-  
+
+
+** NB **
+Pour plus de détails au niveau des calculs, veuillez les trouver dans le rapport!
