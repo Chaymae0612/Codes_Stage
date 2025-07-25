@@ -13,5 +13,7 @@
 
 - Le fichier "QAOA-3 noeuds", contient toutes les contraintes, on traite un réseau à trois noeuds --> Problème lié au nombre limité des qubits !
 
+- Le fichier "QAOA -2 noeuds", contient également toutes contrainte, on traite un réseau à deux noeuds, on fait une comparaison avec une résolution purement classique.
+
 - Les autres codes -en compilation-
   
