@@ -1,3 +1,6 @@
+** NB **
+Pour plus de détails au niveau des calculs, veuillez les trouver dans le rapport!
+
 --- Dans le dossier first_Draft: ----
 
 - Le fichier 'Benchmark' contient la résolution classique du problème d'optimisation, suivi d'un test Benchmark pour trouver à l'aide de QAOA la borne maximale de la solution optimale. 
@@ -20,7 +23,11 @@
 - Le fichier "QAOA - Benchmark", est également un test pour l'implémentation de QAOA !
 
 - Les autres codes -en compilation-
+  
 
+--- Dans le dossier third_Draft: ----
 
-** NB **
-Pour plus de détails au niveau des calculs, veuillez les trouver dans le rapport!
+-Le fichier "QAOA simplifié_Benchmark" contient un test simplifié pour QAOA avec des évaluations de la solution optimale en changeant la valeur de la profondeur p.
+
+- en cours
+
