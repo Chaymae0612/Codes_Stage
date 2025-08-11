@@ -27,7 +27,7 @@ Pour plus de détails au niveau des calculs, veuillez les trouver dans le rappor
 
 --- Dans le dossier third_Draft: ----
 
--Le fichier "QAOA simplifié_Benchmark" contient un test simplifié pour QAOA avec des évaluations de la solution optimale en changeant la valeur de la profondeur p.
+- Le fichier "QAOA simplifié_Benchmark" contient un test simplifié pour QAOA avec des évaluations de la solution optimale en changeant la valeur de la profondeur p.
 
-- en cours
+- Le fichier "QAOA simplifié_dev binaire" contient les résultats trouvés pour QAOA avec une représentation en développement binaire des paramètres à optimiser.
 
