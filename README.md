@@ -31,3 +31,5 @@ Pour plus de détails au niveau des calculs, veuillez les trouver dans le rappor
 
 - Le fichier "QAOA simplifié_dev binaire" contient les résultats trouvés pour QAOA avec une représentation en développement binaire des paramètres à optimiser.
 
+- Le fichier "Code cirq Comparaison" contient le code en cirq, l'équivalent de ce qui est fait en qiskit.
+
